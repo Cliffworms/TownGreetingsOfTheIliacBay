@@ -1,0 +1,214 @@
+Quest: TGIBHAMLETS
+DisplayName: Town Greetings of the Iliac Bay - Hamlets
+-- Message panels
+
+QRC:
+
+QuestorOffer:  [1000]
+<ce>            
+
+RefuseQuest:  [1001]
+<ce>            
+
+AcceptQuest:  [1002]
+<ce>            
+
+QuestFail:  [1003]
+<ce>            
+
+QuestComplete:  [1004]
+<ce>            
+
+Message: 1010
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Many call this their home and extend their
+<ce>welcome. Remember this, lest you forget who
+<ce>you would face in the world outside.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn, a %ct as beautiful as her
+<ce>name. We greet you, and wish you only peace
+<ce>on your stay.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome, and good fortune. We
+<ce>are home to many who would seek the paths of danger.
+<ce>Not a deadlier challenge wouldst thou face elsewhere.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The %ct of %cn welcomes thee unto its soil.
+<ce>We bid thee, be not fearful of this world, but stand
+<ce>forward tall and proud.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Know that we of %cn welcome thee, for it is
+<ce>rare indeed to receive travelers brave enough to stand
+<ce>under the shadow of our land.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome. We call this our home.
+<ce>Let those who challenge be wary.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Let all who enter %cn know of us. We laugh at
+<ce>death and thirst for life. Be not afraid, but instead
+<ce>enter bravely and live well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn seems almost to weave a web of sleep upon all
+<ce>those who enter, for its citizens discourage visitors.
+<ce>It seems however that you are unaffected.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Behold %cn. All who journey here know that we stand
+<ce>ready to meet you in friendship.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. The citizens here seem friendly and
+<ce>you are hailed in welcome. You overhear that the %ct's
+<ce>commerce is going well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn greets you. Know that you are welcome, but
+<ce>take care not to take advantage of our hospitality.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to our small and humble %ct of %cn.
+<ce>Please feel free to visit our inns and shops. We hope
+<ce>you enjoy your stay.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You are welcome in the small %reg %ct of %cn,
+<ce>traveler. Visit our taverns and shops as we are always at
+<ce>your service. We advise against walking the streets
+<ce>unarmed at night.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We entreat you to rest, gentle traveler, in the
+<ce>arms of %cn, one of the smallest %ct
+<ce>in all of the %reg region. The inns and
+<ce>taverns welcome visitors for a good earned rest.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You walk into the %ct of %cn weary from
+<ce>travel. Ahead it seems are inns and taverns to
+<ce>refresh yourself in.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The %ct of %cn seems quiet, unaware of
+<ce>your arrival. The people here seem very friendly.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You arrive at %cn, a %ct held by a
+<ce>council of elders. Although weary from travel,
+<ce>you find the place seems to beckon for exploration.
+
+Message: 1020
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+
+QBN:
+Clock _reset_ 24:00
+
+variable _reset_
+variable _msgshown_
+
+--	Quest start-up:
+
+_day_ task:
+    daily from 06:00 to 18:00
+
+_hamletresetcheck_ task:
+    when _reset_ and _enterhamlet_
+    start quest TGIBCITIES
+    end quest
+
+_enterhamlet_ task:
+    when pc enters hamlet
+    stop timer _reset_
+    clear _exithamlet_
+
+_exithamlet_ task:
+    when pc exits hamlet
+	start timer _reset_
+    clear _enterhamlet_
+
+_hamletday_ task:
+    when _enterhamlet_ and _day_ and not _hamletnight_ and not _msgshown_
+    say 1010
+    setvar _msgshown_
+
+_hamletnight_ task:
+    when _enterhamlet_ and not _day_ and not _hamletday_ and not _msgshown_
+    say 1020
+    setvar _msgshown_

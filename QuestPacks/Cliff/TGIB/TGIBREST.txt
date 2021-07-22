@@ -1,0 +1,163 @@
+Quest: TGIBREST
+DisplayName: Town Greetings of the Iliac Bay - Every other exteior locations
+-- Message panels
+
+QRC:
+
+QuestorOffer:  [1000]
+<ce>            
+
+RefuseQuest:  [1001]
+<ce>            
+
+AcceptQuest:  [1002]
+<ce>            
+
+QuestFail:  [1003]
+<ce>            
+
+QuestComplete:  [1004]
+<ce>            
+
+Message: 1010
+<ce>You have arrived in %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+
+QBN:
+
+
+Clock _reset_ 24:00
+
+variable _reset_
+variable _msgshown_
+
+--	Quest start-up:
+
+_dungeonsresetcheck_ task:
+    when _reset_ and _enterdungeons_
+    start quest TGIBREST
+    end quest
+
+_civresetcheck_ task:
+    when _reset_ and _enterciv_
+    start quest TGIBREST
+    end quest
+
+_enterlabyrinth_ task:
+    when pc enters labyrinth
+    clear _exitlabyrinth_
+
+_enterkeep_ task:
+    when pc enters keep
+    clear _exitkeep_
+
+_enterruin_ task:
+    when pc enters ruin
+    clear _exitruin_
+
+_entergraveyard_ task:
+    when pc enters graveyard
+    clear _exitgraveyard_
+
+_entercoven_ task:
+    when pc enters coven
+    clear _exitcoven_
+
+_enterfarm_ task:
+    when pc enters farmhome
+    clear _exitfarm_
+
+_enterwealthy_ task:
+    when pc enters wealthyhome
+    clear _exitwealthy_
+
+_enterpoor_ task:
+    when pc enters poorhome
+    clear _exitpoor_
+
+_entertavern_ task:
+    when pc enters tavernhome
+    clear _exittavern_
+
+_entertemple_ task:
+    when pc enters templehome
+    clear _exittemple_
+
+_entercult_ task:
+    when pc enters cult
+    clear _exitcult_
+
+_enterdungeons_ task:
+    when _entergraveyard_ or _enterkeep_ or _enterlabyrinth_ or _enterruin_
+
+_enterciv_ task:
+    when _entercoven_ or _entercult_ or _enterfarm_ or _enterpoor_ or _entertavern_ or _entertemple_ or _enterwealthy_
+
+_showmsgdgn_ task:
+    when _enterdungeons_ and not _msgshown_
+    say 1010
+    stop timer _reset_    
+    setvar _msgshown_
+
+_showmsgciv_ task:
+    when _enterciv_ and not _msgshown_
+    say 1010
+    stop timer _reset_    
+    setvar _msgshown_        
+
+_exitlabyrinth_ task:
+    when pc exits labyrinth
+    start timer _reset_
+    clear _enterlabyrinth_
+    
+_exitkeep_ task:
+    when pc exits keep
+    start timer _reset_
+    clear _enterkeep_
+    
+_exitruin_ task:
+    when pc exits ruin
+    start timer _reset_
+    clear _enterruin_
+    
+_exitgraveyard_ task:
+    when pc exits graveyard
+    start timer _reset_
+    clear _entergraveyard_
+    
+_exitcoven_ task:
+    when pc exits coven
+    start timer _reset_
+    clear _entercoven_
+    
+_exitfarm_ task:
+    when pc exits farmhome
+    start timer _reset_
+    clear _enterfarm_
+    
+_exitwealthy_ task:
+    when pc exits wealthyhome
+    start timer _reset_
+    clear _enterwealthy_
+    
+_exitpoor_ task:
+    when pc exits poorhome
+    start timer _reset_
+    clear _enterpoor_
+    
+_exittavern_ task:
+    when pc exits tavernhome
+    start timer _reset_
+    clear _entertavern_
+    
+_exittemple_ task:
+    when pc exits templehome
+    start timer _reset_
+    clear _entertemple_
+
+_exitcult_ task:
+    when pc exits cult
+    start timer _reset_
+    clear _entercult_

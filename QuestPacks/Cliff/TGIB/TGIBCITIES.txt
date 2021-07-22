@@ -1,0 +1,1618 @@
+Quest: TGIBCITIES
+DisplayName: Town Greetings of the Iliac Bay - Cities
+-- Message panels
+
+QRC:
+
+QuestorOffer:  [1000]
+<ce>            
+
+RefuseQuest:  [1001]
+<ce>            
+
+AcceptQuest:  [1002]
+<ce>            
+
+QuestFail:  [1003]
+<ce>            
+
+QuestComplete:  [1004]
+<ce>            
+
+-- Generic
+Message: 1010
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn hails thee, traveler. We wish you
+<ce>good fortune within our walls.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes all who find themselves
+<ce>within our walls during their journeys.
+<ce>May good fortune smile upon thee and be
+<ce>merciful.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We of %cn welcome you into our walls.
+<ce>Many call this their home and extend their
+<ce>welcome. Remember this, lest you forget who
+<ce>you would face in the world outside.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn, a city as beautiful as her
+<ce>name. We greet you, and wish you only peace
+<ce>on your stay.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome, and good fortune. We
+<ce>are home to many who would seek the paths of danger.
+<ce>Not a deadlier challenge wouldst thou face elsewhere.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes thee into its walls. We stand
+<ce>ready for all who would come to us in peace.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city of %cn welcomes thee unto its soil.
+<ce>We bid thee, be not fearful of this world, but stand
+<ce>forward tall and proud.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes thee. Lay aside thy vice and
+<ce>avarice and enter these walls as nobles. We wish
+<ce>you only a long life and prosperity.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Thou art welcome in %cn. Many name this home.
+<ce>Be cautious, lest ye draw their wrath upon thy heads.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Know that we of %cn welcome thee, for it is
+<ce>rare indeed to receive travelers brave enough to stand
+<ce>under the shadow of our land.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We welcome you to %cn. Let travelers find
+<ce>warmth within our walls, let challengers find us worthy.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome. We call this our home.
+<ce>Let those who challenge be wary.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Let all who enter %cn know of us. We laugh at
+<ce>death and thirst for life. Be not afraid, but instead
+<ce>enter bravely and live well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. This city's lord has a reputation
+<ce>of being extremely ruthless.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn seems almost to weave a web of sleep upon all
+<ce>those who enter, for its citizens discourage visitors.
+<ce>It seems however that you are unaffected.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn is known for two things, the ferocity of their
+<ce>guards, and the quality of their arms.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Behold %cn. All who journey here know that we stand
+<ce>ready to meet you in friendship.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Enter %cn and be welcome, for we wish all who come
+<ce>in peace a long and healthy life, and those who come in
+<ce>search of glory, a quick and merciful death.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes you to our gates. Know that the guards
+<ce>hold this city, and will fight any who challenge to keep it.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>None can match the beauty of our %cn, the city of
+<ce>lights. Be welcome and merry, for what is ours is yours.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn. The people fight here for honor
+<ce>and glory. Come, challenge our land, if you dare.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes you. Enter in peace and feel our warmth,
+<ce>challenge our lands and feel your blood run cold.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. The citizens here seem friendly and
+<ce>you are hailed in welcome. You overhear that the city's
+<ce>commerce is going well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn is regal in bearing and noble in stature. The city
+<ce>seems quiet and dignified for her guards are reputed to be
+<ce>honorable warriors but dangerous foes.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn seems a place of safety in an otherwise dangerous
+<ce>world.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn greets our weary brethren. Find peace and rest
+<ce>within our walls.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The grey walled %cn welcomes you into her breast.
+<ce>Feel not the sting of fear, but instead the touch of
+<ce>victory.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn greets you. Know that you are welcome within
+<ce>these walls, but take care not to take advantage of our
+<ce>hospitality.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn, home of the finest wines. Be wary
+<ce>of our market, for those who have crossed the merchants'
+<ce>path have been in dire straits indeed.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn stands forever. Challenge our land if you dare,
+<ce>for we are the best blades of the region, and will
+<ce>show any who come to our door adventure.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn has been named by some the Jewel of
+<ce>%reg. Vagabonds eye your purse strings
+<ce>and guards seem to turn lazy eyes elsewhere.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter the city gates of %cn, noticing the
+<ce>dark looks the guards give you. They have a reputation
+<ce>of being very dangerous. Perhaps you can change that.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. Inside it seems as if a hush as
+<ce>fallen over the city, as if all inside are holding
+<ce>their breath in anticipation.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city gate of %cn looms over you as you enter.
+<ce>People around you here seem to be avoiding eye contact.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to the town of %cn, held by %nam,
+<ce>lord of the city. We would appreciate any business
+<ce>you can offer.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You walk through the gates of %cn, ruled by
+<ce>Lord %nam. The streets seem strangely quiet.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The town of %cn greets you, the people smiling
+<ce>in friendly welcome.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We don't care who you're running from here in
+<ce>the town of %cn. Get in the lord's way
+<ce>and we'll gut you like a pig. Have a fun time.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>There is no finer town in %reg than %cn,
+<ce>ruled by the merciful Lord, %mn2. We welcome
+<ce>travelers, but panderers, derelicts, and adventurers
+<ce>are advised not to enter. The Lord welcomes all to his
+<ce>palace audience chamber from mid morning until early
+<ce>evening.
+<--->
+<ce>%mn2, lord of %cn welcomes all to this town,
+<ce>whether your visit is inspired by business or pleasure.
+<ce>Most taverns and inns are open to all humanoids, and the
+<ce>lord is available at his palace all day long.
+<ce>Enjoy your stay.
+
+-- Night
+Message: 1020
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+
+-- Daggerfall
+Message: 1030
+<ce>You have arrived in the %ct of %cn,
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn hails thee, traveler. We wish you
+<ce>good fortune within our walls.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes all who find themselves
+<ce>within our walls during their journeys.
+<ce>May good fortune smile upon thee and be
+<ce>merciful.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We of %cn welcome you into our walls.
+<ce>Many call this their home and extend their
+<ce>welcome. Remember this, lest you forget who
+<ce>you would face in the world outside.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn, a city as beautiful as her
+<ce>name. We greet you, and wish you only peace
+<ce>on your stay.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome, and good fortune. We
+<ce>are home to many who would seek the paths of danger.
+<ce>Not a deadlier challenge wouldst thou face elsewhere.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes thee into its walls. We stand
+<ce>ready for all who would come to us in peace.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city of %cn welcomes thee unto its soil.
+<ce>We bid thee, be not fearful of this world, but stand
+<ce>forward tall and proud.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes thee. Lay aside thy vice and
+<ce>avarice and enter these walls as nobles. We wish
+<ce>you only a long life and prosperity.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Thou art welcome in %cn. Many name this home.
+<ce>Be cautious, lest ye draw their wrath upon thy heads.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Know that we of %cn welcome thee, for it is
+<ce>rare indeed to receive travelers brave enough to stand
+<ce>under the shadow of our land.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We welcome you to %cn. Let travelers find
+<ce>warmth within our walls, let challengers find us worthy.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome. We call this our home.
+<ce>Let those who challenge be wary.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Let all who enter %cn know of us. We laugh at
+<ce>death and thirst for life. Be not afraid, but instead
+<ce>enter bravely and live well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. This city's %rt has a reputation
+<ce>of being extremely ruthless.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn seems almost to weave a web of sleep upon all
+<ce>those who enter, for its citizens discourage visitors.
+<ce>It seems however that you are unaffected.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn is known for two things, the ferocity of their
+<ce>guards, and the quality of their arms.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Behold %cn. All who journey here know that we stand
+<ce>ready to meet you in friendship.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Enter %cn and be welcome, for we wish all who come
+<ce>in peace a long and healthy life, and those who come in
+<ce>search of glory, a quick and merciful death.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes you to our gates. Know that the guards
+<ce>hold this city, and will fight any who challenge to keep it.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>None can match the beauty of our %cn, the city of
+<ce>lights. Be welcome and merry, for what is ours is yours.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn. The people fight here for honor
+<ce>and glory. Come, challenge our land, if you dare.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes you. Enter in peace and feel our warmth,
+<ce>challenge our lands and feel your blood run cold.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. The citizens here seem friendly and
+<ce>you are hailed in welcome. You overhear that the city's
+<ce>commerce is going well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn is regal in bearing and noble in stature. The city
+<ce>seems quiet and dignified for her guards are reputed to be
+<ce>honorable warriors but dangerous foes.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn seems a place of safety in an otherwise dangerous
+<ce>world.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn greets our weary brethren. Find peace and rest
+<ce>within our walls.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The grey walled %cn welcomes you into her breast.
+<ce>Feel not the sting of fear, but instead the touch of
+<ce>victory.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn greets you. Know that you are welcome within
+<ce>these walls, but take care not to take advantage of our
+<ce>hospitality.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn, home of the finest wines. Be wary
+<ce>of our market, for those who have crossed the merchants'
+<ce>path have been in dire straits indeed.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn stands forever. Challenge our land if you dare,
+<ce>for we are the best blades of the region, and will
+<ce>show any who come to our door adventure.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn has been named by some the Jewel of
+<ce>the Iliac Bay. Vagabonds eye your purse strings
+<ce>and guards seem to turn lazy eyes elsewhere.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter the city gates of %cn, noticing the
+<ce>dark looks the guards give you. They have a reputation
+<ce>of being very dangerous. Perhaps you can change that.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. Inside it seems as if a hush as
+<ce>fallen over the city, as if all inside are holding
+<ce>their breath in anticipation.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city gate of %cn looms over you as you enter.
+<ce>People around you here seem to be avoiding eye contact.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to the town of %cn, held by %rn.
+<ce>We would appreciate any business you can offer.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You walk through the gates of %cn, ruled by
+<ce>%rn. The streets seem strangely quiet.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The town of %cn greets you, the people smiling
+<ce>in friendly welcome.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We don't care who you're running from here in
+<ce>the town of %cn. Get in the %rt's way
+<ce>and we'll gut you like a pig. Have a fun time.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>There is no finer town in %reg than %cn,
+<ce>ruled by the merciful %rn. We welcome
+<ce>travelers, but panderers, derelicts, and adventurers
+<ce>are advised not to enter. The %rt welcomes all to his
+<ce>castle audience chamber from mid morning until early
+<ce>evening.
+<--->
+<ce>%rn of %cn welcomes all to this town,
+<ce>whether your visit is inspired by business or pleasure.
+<ce>Most taverns and inns are open to all humanoids, and the
+<ce>%rt is available at his palace all day long.
+<ce>Enjoy your stay.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+%cn greets those in search for rest, and
+<ce>hope to challenge those who search
+<ce>for glory.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The City-State of %cn bids you welcome,
+<ce>as does its people.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The heart of High Rock, %cn bids you welcome.
+<ce>For travelers we offer a place of rest.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn, the heart of the Iliac Bay, welcomes
+<ce>you. %rn asks you to feel free to look about and
+<ce>enjoy yourselves. We are at your disposal.
+
+-- Wayrest
+Message: 1040
+<ce>You have arrived in the %ct of %cn,
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn hails thee, traveler. We wish you
+<ce>good fortune within our walls.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes all who find themselves
+<ce>within our walls during their journeys.
+<ce>May good fortune smile upon thee and be
+<ce>merciful.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We of %cn welcome you into our walls.
+<ce>Many call this their home and extend their
+<ce>welcome. Remember this, lest you forget who
+<ce>you would face in the world outside.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn, a city as beautiful as her
+<ce>name. We greet you, and wish you only peace
+<ce>on your stay.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome, and good fortune. We
+<ce>are home to many who would seek the paths of danger.
+<ce>Not a deadlier challenge wouldst thou face elsewhere.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes thee into its walls. We stand
+<ce>ready for all who would come to us in peace.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city of %cn welcomes thee unto its soil.
+<ce>We bid thee, be not fearful of this world, but stand
+<ce>forward tall and proud.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes thee. Lay aside thy vice and
+<ce>avarice and enter these walls as nobles. We wish
+<ce>you only a long life and prosperity.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Thou art welcome in %cn. Many name this home.
+<ce>Be cautious, lest ye draw their wrath upon thy heads.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Know that we of %cn welcome thee, for it is
+<ce>rare indeed to receive travelers brave enough to stand
+<ce>under the shadow of our land.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We welcome you to %cn. Let travelers find
+<ce>warmth within our walls, let challengers find us worthy.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome. We call this our home.
+<ce>Let those who challenge be wary.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Let all who enter %cn know of us. We laugh at
+<ce>death and thirst for life. Be not afraid, but instead
+<ce>enter bravely and live well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. This city's %rt has a reputation
+<ce>of being extremely ruthless.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn seems almost to weave a web of sleep upon all
+<ce>those who enter, for its citizens discourage visitors.
+<ce>It seems however that you are unaffected.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn is known for two things, the ferocity of their
+<ce>guards, and the quality of their arms.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Behold %cn. All who journey here know that we stand
+<ce>ready to meet you in friendship.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Enter %cn and be welcome, for we wish all who come
+<ce>in peace a long and healthy life, and those who come in
+<ce>search of glory, a quick and merciful death.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes you to our gates. Know that the guards
+<ce>hold this city, and will fight any who challenge to keep it.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>None can match the beauty of our %cn, the city of
+<ce>lights. Be welcome and merry, for what is ours is yours.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn. The people fight here for honor
+<ce>and glory. Come, challenge our land, if you dare.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes you. Enter in peace and feel our warmth,
+<ce>challenge our lands and feel your blood run cold.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. The citizens here seem friendly and
+<ce>you are hailed in welcome. You overhear that the city's
+<ce>commerce is going well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn is regal in bearing and noble in stature. The city
+<ce>seems quiet and dignified for her guards are reputed to be
+<ce>honorable warriors but dangerous foes.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn seems a place of safety in an otherwise dangerous
+<ce>world.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn greets our weary brethren. Find peace and rest
+<ce>within our walls.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The grey walled %cn welcomes you into her breast.
+<ce>Feel not the sting of fear, but instead the touch of
+<ce>victory.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn greets you. Know that you are welcome within
+<ce>these walls, but take care not to take advantage of our
+<ce>hospitality.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn, home of the finest wines. Be wary
+<ce>of our market, for those who have crossed the merchants'
+<ce>path have been in dire straits indeed.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn stands forever. Challenge our land if you dare,
+<ce>for we are the best blades of the region, and will
+<ce>show any who come to our door adventure.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn has been named by some the Jewel of
+<ce>the Iliac Bay. Vagabonds eye your purse strings
+<ce>and guards seem to turn lazy eyes elsewhere.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter the city gates of %cn, noticing the
+<ce>dark looks the guards give you. They have a reputation
+<ce>of being very dangerous. Perhaps you can change that.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. Inside it seems as if a hush as
+<ce>fallen over the city, as if all inside are holding
+<ce>their breath in anticipation.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city gate of %cn looms over you as you enter.
+<ce>People around you here seem to be avoiding eye contact.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to the town of %cn, held by %rn.
+<ce>We would appreciate any business you can offer.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You walk through the gates of %cn, ruled by
+<ce>%rn. The streets seem strangely quiet.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The town of %cn greets you, the people smiling
+<ce>in friendly welcome.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We don't care who you're running from here in
+<ce>the town of %cn. Get in the %rt's way
+<ce>and we'll gut you like a pig. Have a fun time.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>There is no finer town in %reg than %cn,
+<ce>ruled by the merciful %rn. We welcome
+<ce>travelers, but panderers, derelicts, and adventurers
+<ce>are advised not to enter. The %rt welcomes all to his
+<ce>castle audience chamber from mid morning until early
+<ce>evening.
+<--->
+<ce>%rn of %cn welcomes all to this town,
+<ce>whether your visit is inspired by business or pleasure.
+<ce>Most taverns and inns are open to all humanoids, and the
+<ce>%rt is available at his palace all day long.
+<ce>Enjoy your stay.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The port city of %cn hails all weary travelers
+<ce>who wish to rest. Find the strength within our
+<ce>walls to continue your journey, wherever that
+<ce>may be.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn, Jewel of the Iliac Bay, greets thee weary
+<ce>traveler and bids thee welcome to our City-State.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The City-State of %cn bids you welcome, as does
+<ce>its people.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The heart of High Rock, %cn bids you welcome.
+<ce>For travelers we offer a place of rest.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city of %cn is also known as the Jewel
+<ce>of the Iliac Bay. Of all the City-States in High Rock,
+<ce>%cn is most open to trade and commerce.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Be welcome in %cn, chosen in the Empire to
+<ce>hold the greatest wealth. Come, bid us to listen to
+<ce>your adventures, we have not seen true heroes in a
+<ce>time.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You have come to %cn, closest High Rock City-State
+<ce>to the Imperial Province. It is here that you can find the
+<ce>cheapest items to be bought, the Emperor's hand lying
+<ce>lightly upon our shoulders.
+
+
+--Sentinel
+Message: 1050
+<ce>You have arrived in the %ct of %cn,
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn hails thee, traveler. We wish you
+<ce>good fortune within our walls.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes all who find themselves
+<ce>within our walls during their journeys.
+<ce>May good fortune smile upon thee and be
+<ce>merciful.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We of %cn welcome you into our walls.
+<ce>Many call this their home and extend their
+<ce>welcome. Remember this, lest you forget who
+<ce>you would face in the world outside.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn, a city as beautiful as her
+<ce>name. We greet you, and wish you only peace
+<ce>on your stay.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome, and good fortune. We
+<ce>are home to many who would seek the paths of danger.
+<ce>Not a deadlier challenge wouldst thou face elsewhere.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes thee into its walls. We stand
+<ce>ready for all who would come to us in peace.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city of %cn welcomes thee unto its soil.
+<ce>We bid thee, be not fearful of this world, but stand
+<ce>forward tall and proud.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes thee. Lay aside thy vice and
+<ce>avarice and enter these walls as nobles. We wish
+<ce>you only a long life and prosperity.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Thou art welcome in %cn. Many name this home.
+<ce>Be cautious, lest ye draw their wrath upon thy heads.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Know that we of %cn welcome thee, for it is
+<ce>rare indeed to receive travelers brave enough to stand
+<ce>under the shadow of our land.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We welcome you to %cn. Let travelers find
+<ce>warmth within our walls, let challengers find us worthy.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn bids you welcome. We call this our home.
+<ce>Let those who challenge be wary.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Let all who enter %cn know of us. We laugh at
+<ce>death and thirst for life. Be not afraid, but instead
+<ce>enter bravely and live well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. This city's %rt has a reputation
+<ce>of being extremely ruthless.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn seems almost to weave a web of sleep upon all
+<ce>those who enter, for its citizens discourage visitors.
+<ce>It seems however that you are unaffected.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn is known for two things, the ferocity of their
+<ce>guards, and the quality of their arms.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Behold %cn. All who journey here know that we stand
+<ce>ready to meet you in friendship.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Enter %cn and be welcome, for we wish all who come
+<ce>in peace a long and healthy life, and those who come in
+<ce>search of glory, a quick and merciful death.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes you to our gates. Know that the guards
+<ce>hold this city, and will fight any who challenge to keep it.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>None can match the beauty of our %cn, the city of
+<ce>lights. Be welcome and merry, for what is ours is yours.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn. The people fight here for honor
+<ce>and glory. Come, challenge our land, if you dare.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn welcomes you. Enter in peace and feel our warmth,
+<ce>challenge our lands and feel your blood run cold.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. The citizens here seem friendly and
+<ce>you are hailed in welcome. You overhear that the city's
+<ce>commerce is going well.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn is regal in bearing and noble in stature. The city
+<ce>seems quiet and dignified for her guards are reputed to be
+<ce>honorable warriors but dangerous foes.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn seems a place of safety in an otherwise dangerous
+<ce>world.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn greets our weary brethren. Find peace and rest
+<ce>within our walls.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The grey walled %cn welcomes you into her breast.
+<ce>Feel not the sting of fear, but instead the touch of
+<ce>victory.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn greets you. Know that you are welcome within
+<ce>these walls, but take care not to take advantage of our
+<ce>hospitality.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to %cn, home of the finest wines. Be wary
+<ce>of our market, for those who have crossed the merchants'
+<ce>path have been in dire straits indeed.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn stands forever. Challenge our land if you dare,
+<ce>for we are the best blades of the region, and will
+<ce>show any who come to our door adventure.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>%cn has been named by some the Jewel of
+<ce>the Iliac Bay. Vagabonds eye your purse strings
+<ce>and guards seem to turn lazy eyes elsewhere.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter the city gates of %cn, noticing the
+<ce>dark looks the guards give you. They have a reputation
+<ce>of being very dangerous. Perhaps you can change that.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You enter %cn. Inside it seems as if a hush as
+<ce>fallen over the city, as if all inside are holding
+<ce>their breath in anticipation.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city gate of %cn looms over you as you enter.
+<ce>People around you here seem to be avoiding eye contact.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Welcome to the town of %cn, held by %rn.
+<ce>We would appreciate any business you can offer.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>You walk through the gates of %cn, ruled by
+<ce>%rn. The streets seem strangely quiet.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The town of %cn greets you, the people smiling
+<ce>in friendly welcome.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>We don't care who you're running from here in
+<ce>the town of %cn. Get in the %rt's way
+<ce>and we'll gut you like a pig. Have a fun time.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>There is no finer town in %reg than %cn,
+<ce>ruled by the merciful %rn. We welcome
+<ce>travelers, but panderers, derelicts, and adventurers
+<ce>are advised not to enter. The %rt welcomes all to her
+<ce>castle audience chamber from mid morning until early
+<ce>evening.
+<--->
+<ce>%rn of %cn welcomes all to this town,
+<ce>whether your visit is inspired by business or pleasure.
+<ce>Most taverns and inns are open to all humanoids, and the
+<ce>%rt is available at her palace all day long.
+<ce>Enjoy your stay.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>Weary traveler, thou art entering %cn, the
+<ce>guardian of Starfall Bay. Learn what it is to be
+<ce>survivors, for amongst enemies we stand alone.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The City-State of %cn bids you welcome,
+<ce>as does its people.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The heart of Hammerfell, %cn bids you welcome.
+<ce>For travelers we offer a place of rest.
+<--->
+<ce>You have arrived in the %ct of %cn
+<ce>in the %reg region.
+<ce>The date is %dat
+<ce>in the year 3E%year.
+<ce>
+<ce>The city of %cn is also known as the Jewel of
+<ce>Hammerfell. Of all the City-States in Hammerfell,
+<ce>%cn is most open to trade and commerce.
+
+
+QBN:
+Place _df_ permanent DaggerfallCity1
+Place _wt_ permanent WayrestCity
+Place _st_ permanent SentinelCity
+
+Clock _reset_ 24:00
+
+variable _reset_
+variable _dfvar_
+variable _wtvar_
+variable _stvar_
+variable _msgshown_
+
+--	Quest start-up:
+pc at _df_ set _dfvar_
+pc at _wt_ set _wtvar_
+pc at _st_ set _stvar_
+
+_day_ task:
+    daily from 06:00 to 18:00
+
+_cityresetcheck_ task:
+    when _reset_ and _entercity_
+    start quest TGIBCITIES
+    end quest
+
+_entercity_ task:
+    when pc enters city
+    stop timer _reset_
+    clear _exitcity_
+
+_exitcity_ task:
+    when pc exits city
+	start timer _reset_
+    clear _entercity_
+
+_maincity_ task:
+    when _dfvar_ or _wtvar_ or _stvar_
+
+_cityday1_ task:
+    when _entercity_ and _day_ and not _citynight1_ and not _msgshown_
+
+_cityday2_ task:
+    when _cityday1_ and not _maincity_ and not _msgshown_
+    say 1010
+    setvar _msgshown_
+
+_cityDF_ task:
+    when _cityday1_ and _dfvar_ and not _msgshown_
+    say 1030
+    setvar _msgshown_
+
+_cityWT_ task:
+    when _cityday1_ and _wtvar_ and not _msgshown_
+    say 1040
+    setvar _msgshown_
+
+_cityST_ task:
+    when _cityday1_ and _stvar_ and not _msgshown_
+    say 1050
+    setvar _msgshown_
+
+_citynight1_ task:
+    when _entercity_ and not _day_ and not _msgshown_
+    say 1020
+    setvar _msgshown_

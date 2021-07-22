@@ -1,0 +1,28 @@
+Quest: TGIBSTART
+DisplayName: Town Greetings of the Iliac Bay - Start
+-- Message panels
+QRC:
+
+QuestorOffer:  [1000]
+<ce>            
+
+RefuseQuest:  [1001]
+<ce>            
+
+AcceptQuest:  [1002]
+<ce>            
+
+QuestFail:  [1003]
+<ce>            
+
+QuestComplete:  [1004]
+<ce>            
+
+QBN:
+
+--	Quest start-up:
+	start quest TGIBCITIES
+    start quest TGIBHAMLETS
+    start quest TGIBVILLAGES
+    start quest TGIBREST
+    end quest
